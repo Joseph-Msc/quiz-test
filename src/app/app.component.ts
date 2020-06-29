@@ -96,7 +96,7 @@ export class AppComponent {
       },
       {
         answer: '35',
-        correctAnswer: true
+        correctAnswer: false
       },
       {
         answer: '341',
@@ -121,7 +121,7 @@ export class AppComponent {
       },
       {
         answer: 'Buzz lightyear',
-        correctAnswer: true
+        correctAnswer: false
       }
     ]
     },
